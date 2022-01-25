@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_switch_store",
+      "children" : [ {
+        "name" : "TestSwitchStore",
+        "children" : [ {
+          "name" : "test_switch_store",
+          "uid" : "1f986a58a1e1b7d",
+          "parentUid" : "34b9967855ab872ac853bfa506d3e41a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1643108905949,
+            "stop" : 1643108905949,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "34b9967855ab872ac853bfa506d3e41a"
+      } ],
+      "uid" : "a1ef65915e0643fe0d970c431fa29abe"
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}

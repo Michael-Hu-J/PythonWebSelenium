@@ -1,0 +1,22 @@
+{
+  "56575899a6e519259efe1f0f4e1a274d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f986a58a1e1b7d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=97.0.4692.71)\nStacktrace:\n0   chromedriver                        0x000000010ddf2e69 chromedriver + 5160553\n1   chromedriver                        0x000000010dd7d593 chromedriver + 4679059\n2   chromedriver                        0x000000010d9312c8 chromedriver + 172744\n3   chromedriver                        0x000000010d9120be chromedriver + 45246\n4   chromedriver                        0x000000010d987c3c chromedriver + 527420\n5   chromedriver                        0x000000010d99670f chromedriver + 587535\n6   chromedriver                        0x000000010d984623 chromedriver + 513571\n7   chromedriver                        0x000000010d959dce chromedriver + 339406\n8   chromedriver                        0x000000010d95b105 chromedriver + 344325\n9   chromedriver                        0x000000010ddae23e chromedriver + 4878910\n10  chromedriver                        0x000000010ddc5d17 chromedriver + 4975895\n11  chromedriver                        0x000000010ddcba3f chromedriver + 4999743\n12  chromedriver                        0x000000010ddc661a chromedriver + 4978202\n13  chromedriver                        0x000000010dda2bb1 chromedriver + 4832177\n14  chromedriver                        0x000000010dde2fd8 chromedriver + 5095384\n15  chromedriver                        0x000000010dde3161 chromedriver + 5095777\n16  chromedriver                        0x000000010ddfa2a8 chromedriver + 5190312\n17  libsystem_pthread.dylib             0x00007ff81d6114f4 _pthread_start + 125\n18  libsystem_pthread.dylib             0x00007ff81d60d00f thread_start + 15",
+      "time" : {
+        "start" : 1643108905949,
+        "stop" : 1643108905949,
+        "duration" : 0
+      }
+    } ]
+  }
+}

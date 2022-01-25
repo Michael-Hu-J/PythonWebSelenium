@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCase.test_switch_store",
+    "children" : [ {
+      "name" : "test_switch_store",
+      "uid" : "1f986a58a1e1b7d",
+      "parentUid" : "7b7916904343b2af68dfccf8223b23ae",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643108905949,
+        "stop" : 1643108905949,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "TestCase.test_switch_store"
+  } ]
+}

@@ -1,0 +1,447 @@
+INFO 2022-01-19 11:04:31,125 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 11:04:31,175 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 11:04:31,185 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 11:04:31,359 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 11:04:31,367 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 11:04:31,479 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 11:04:31,586 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 11:04:32,161 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 11:04:32,645 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 11:04:32,657 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 11:04:32,941 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 11:04:33,038 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 11:04:34,525 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 11:04:34,693 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 11:04:34,717 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 11:04:35,029 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 11:04:35,127 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 11:04:36,231 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 11:06:00,921 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 11:06:00,961 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 11:06:00,972 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 11:06:01,152 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 11:06:01,163 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 11:06:01,256 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 11:06:01,298 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 11:06:01,914 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 11:06:02,370 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 11:06:02,380 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 11:06:02,477 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 11:06:02,605 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 11:06:04,099 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 11:06:04,255 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 11:06:04,270 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 11:06:04,541 Basic.log log.py-第52行: css selector正在点击订单状态：(div[class='ant-select-selection__rendered'])
+INFO 2022-01-19 11:06:04,642 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 11:06:05,741 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 11:07:56,718 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 11:07:56,760 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 11:07:56,773 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 11:07:56,893 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 11:07:56,902 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 11:07:56,982 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 11:07:57,027 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 11:07:57,677 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 11:07:58,140 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 11:07:58,150 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 11:07:58,219 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 11:07:58,336 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 11:07:59,781 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 11:07:59,937 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 11:07:59,964 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 11:08:00,220 Basic.log log.py-第52行: css selector正在点击订单状态：(div[class='ant-select-selection__rendered'])
+INFO 2022-01-19 11:08:00,295 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 11:08:00,860 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 11:09:49,958 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 11:09:50,003 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 11:09:50,017 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 11:09:50,181 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 11:09:50,191 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 11:09:50,279 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 11:09:50,349 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 11:09:50,923 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 11:09:51,400 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 11:09:51,410 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 11:09:51,630 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 11:09:51,692 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 11:09:53,150 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 11:09:53,304 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 11:09:53,318 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 11:09:53,586 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 11:09:53,705 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 11:09:54,282 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 11:09:54,375 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 11:09:54,512 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 11:09:54,668 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 11:09:54,708 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 11:09:55,778 Basic.log log.py-第52行: css selector正在选择发货：(a)
+INFO 2022-01-19 16:06:09,184 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 16:06:09,226 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 16:06:09,237 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 16:06:09,410 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 16:06:09,420 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 16:06:09,516 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 16:06:09,585 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 16:06:10,179 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 16:06:10,851 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 16:06:10,862 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 16:06:11,010 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 16:06:11,100 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 16:06:12,536 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 16:06:12,694 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 16:06:12,716 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 16:06:12,984 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 16:06:13,083 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 16:06:13,157 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 16:06:13,240 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 16:06:13,396 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 16:06:13,525 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 16:06:13,590 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 16:06:14,636 Basic.log log.py-第52行: css selector正在点击发货：(a)
+INFO 2022-01-19 16:06:14,825 Basic.log log.py-第52行: xpath正在点击物流公司：(//div[@class='ant-select-search ant-select-search--inline']../)
+ERROR 2022-01-19 16:06:14,841 Basic.log log.py-第64行: 点击物流公司失败：Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='ant-select-search ant-select-search--inline']../ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='ant-select-search ant-select-search--inline']../' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x000000011014be69 chromedriver + 5160553
+1   chromedriver                        0x00000001100d6593 chromedriver + 4679059
+2   chromedriver                        0x000000010fc8a2c8 chromedriver + 172744
+3   chromedriver                        0x000000010fc8d141 chromedriver + 184641
+4   chromedriver                        0x000000010fc8cf61 chromedriver + 184161
+5   chromedriver                        0x000000010fc8d1fc chromedriver + 184828
+6   chromedriver                        0x000000010fcbf876 chromedriver + 391286
+7   chromedriver                        0x000000010fcbfd21 chromedriver + 392481
+8   chromedriver                        0x000000010fcf2304 chromedriver + 598788
+9   chromedriver                        0x000000010fcdd3fd chromedriver + 513021
+10  chromedriver                        0x000000010fcf00ab chromedriver + 589995
+11  chromedriver                        0x000000010fcdd623 chromedriver + 513571
+12  chromedriver                        0x000000010fcb2dce chromedriver + 339406
+13  chromedriver                        0x000000010fcb4105 chromedriver + 344325
+14  chromedriver                        0x000000011010723e chromedriver + 4878910
+15  chromedriver                        0x000000011011ed17 chromedriver + 4975895
+16  chromedriver                        0x0000000110124a3f chromedriver + 4999743
+17  chromedriver                        0x000000011011f61a chromedriver + 4978202
+18  chromedriver                        0x00000001100fbbb1 chromedriver + 4832177
+19  chromedriver                        0x000000011013bfd8 chromedriver + 5095384
+20  chromedriver                        0x000000011013c161 chromedriver + 5095777
+21  chromedriver                        0x00000001101532a8 chromedriver + 5190312
+22  libsystem_pthread.dylib             0x00007ff8197d44f4 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff8197d000f thread_start + 15
+Traceback (most recent call last):
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/Basic/base.py", line 87, in find_element
+    ele = self.driver.find_element(by=By, value=element_locate)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='ant-select-search ant-select-search--inline']../ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='ant-select-search ant-select-search--inline']../' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x000000011014be69 chromedriver + 5160553
+1   chromedriver                        0x00000001100d6593 chromedriver + 4679059
+2   chromedriver                        0x000000010fc8a2c8 chromedriver + 172744
+3   chromedriver                        0x000000010fc8d141 chromedriver + 184641
+4   chromedriver                        0x000000010fc8cf61 chromedriver + 184161
+5   chromedriver                        0x000000010fc8d1fc chromedriver + 184828
+6   chromedriver                        0x000000010fcbf876 chromedriver + 391286
+7   chromedriver                        0x000000010fcbfd21 chromedriver + 392481
+8   chromedriver                        0x000000010fcf2304 chromedriver + 598788
+9   chromedriver                        0x000000010fcdd3fd chromedriver + 513021
+10  chromedriver                        0x000000010fcf00ab chromedriver + 589995
+11  chromedriver                        0x000000010fcdd623 chromedriver + 513571
+12  chromedriver                        0x000000010fcb2dce chromedriver + 339406
+13  chromedriver                        0x000000010fcb4105 chromedriver + 344325
+14  chromedriver                        0x000000011010723e chromedriver + 4878910
+15  chromedriver                        0x000000011011ed17 chromedriver + 4975895
+16  chromedriver                        0x0000000110124a3f chromedriver + 4999743
+17  chromedriver                        0x000000011011f61a chromedriver + 4978202
+18  chromedriver                        0x00000001100fbbb1 chromedriver + 4832177
+19  chromedriver                        0x000000011013bfd8 chromedriver + 5095384
+20  chromedriver                        0x000000011013c161 chromedriver + 5095777
+21  chromedriver                        0x00000001101532a8 chromedriver + 5190312
+22  libsystem_pthread.dylib             0x00007ff8197d44f4 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff8197d000f thread_start + 15
+
+INFO 2022-01-19 16:06:14,988 Basic.log log.py-第52行: 错误截图保存在：/Users/hujian/PycharmProjects/PythonWebSelenium/screenshots/点击物流公司_2022-01-19.png
+INFO 2022-01-19 16:07:40,851 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 16:07:40,891 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 16:07:40,903 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 16:07:41,067 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 16:07:41,076 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 16:07:41,162 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 16:07:41,228 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 16:07:41,796 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 16:07:42,323 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 16:07:42,333 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 16:07:42,550 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 16:07:42,613 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 16:07:44,012 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 16:07:44,169 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 16:07:44,183 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 16:07:44,465 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 16:07:44,567 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 16:07:44,676 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 16:07:44,759 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 16:07:44,897 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 16:07:45,040 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 16:07:45,080 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 16:07:46,150 Basic.log log.py-第52行: css selector正在点击发货：(a)
+INFO 2022-01-19 16:07:46,352 Basic.log log.py-第52行: xpath正在点击物流公司：(//div[@class='ant-select-search ant-select-search--inline']/../)
+ERROR 2022-01-19 16:07:46,369 Basic.log log.py-第64行: 点击物流公司失败：Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='ant-select-search ant-select-search--inline']/../ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='ant-select-search ant-select-search--inline']/../' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x000000010b779e69 chromedriver + 5160553
+1   chromedriver                        0x000000010b704593 chromedriver + 4679059
+2   chromedriver                        0x000000010b2b82c8 chromedriver + 172744
+3   chromedriver                        0x000000010b2bb141 chromedriver + 184641
+4   chromedriver                        0x000000010b2baf61 chromedriver + 184161
+5   chromedriver                        0x000000010b2bb1fc chromedriver + 184828
+6   chromedriver                        0x000000010b2ed876 chromedriver + 391286
+7   chromedriver                        0x000000010b2edd21 chromedriver + 392481
+8   chromedriver                        0x000000010b320304 chromedriver + 598788
+9   chromedriver                        0x000000010b30b3fd chromedriver + 513021
+10  chromedriver                        0x000000010b31e0ab chromedriver + 589995
+11  chromedriver                        0x000000010b30b623 chromedriver + 513571
+12  chromedriver                        0x000000010b2e0dce chromedriver + 339406
+13  chromedriver                        0x000000010b2e2105 chromedriver + 344325
+14  chromedriver                        0x000000010b73523e chromedriver + 4878910
+15  chromedriver                        0x000000010b74cd17 chromedriver + 4975895
+16  chromedriver                        0x000000010b752a3f chromedriver + 4999743
+17  chromedriver                        0x000000010b74d61a chromedriver + 4978202
+18  chromedriver                        0x000000010b729bb1 chromedriver + 4832177
+19  chromedriver                        0x000000010b769fd8 chromedriver + 5095384
+20  chromedriver                        0x000000010b76a161 chromedriver + 5095777
+21  chromedriver                        0x000000010b7812a8 chromedriver + 5190312
+22  libsystem_pthread.dylib             0x00007ff8197d44f4 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff8197d000f thread_start + 15
+Traceback (most recent call last):
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/Basic/base.py", line 87, in find_element
+    ele = self.driver.find_element(by=By, value=element_locate)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='ant-select-search ant-select-search--inline']/../ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='ant-select-search ant-select-search--inline']/../' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x000000010b779e69 chromedriver + 5160553
+1   chromedriver                        0x000000010b704593 chromedriver + 4679059
+2   chromedriver                        0x000000010b2b82c8 chromedriver + 172744
+3   chromedriver                        0x000000010b2bb141 chromedriver + 184641
+4   chromedriver                        0x000000010b2baf61 chromedriver + 184161
+5   chromedriver                        0x000000010b2bb1fc chromedriver + 184828
+6   chromedriver                        0x000000010b2ed876 chromedriver + 391286
+7   chromedriver                        0x000000010b2edd21 chromedriver + 392481
+8   chromedriver                        0x000000010b320304 chromedriver + 598788
+9   chromedriver                        0x000000010b30b3fd chromedriver + 513021
+10  chromedriver                        0x000000010b31e0ab chromedriver + 589995
+11  chromedriver                        0x000000010b30b623 chromedriver + 513571
+12  chromedriver                        0x000000010b2e0dce chromedriver + 339406
+13  chromedriver                        0x000000010b2e2105 chromedriver + 344325
+14  chromedriver                        0x000000010b73523e chromedriver + 4878910
+15  chromedriver                        0x000000010b74cd17 chromedriver + 4975895
+16  chromedriver                        0x000000010b752a3f chromedriver + 4999743
+17  chromedriver                        0x000000010b74d61a chromedriver + 4978202
+18  chromedriver                        0x000000010b729bb1 chromedriver + 4832177
+19  chromedriver                        0x000000010b769fd8 chromedriver + 5095384
+20  chromedriver                        0x000000010b76a161 chromedriver + 5095777
+21  chromedriver                        0x000000010b7812a8 chromedriver + 5190312
+22  libsystem_pthread.dylib             0x00007ff8197d44f4 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff8197d000f thread_start + 15
+
+INFO 2022-01-19 16:07:46,666 Basic.log log.py-第52行: 错误截图保存在：/Users/hujian/PycharmProjects/PythonWebSelenium/screenshots/点击物流公司_2022-01-19.png
+INFO 2022-01-19 16:08:05,144 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 16:08:05,188 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 16:08:05,201 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 16:08:05,372 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 16:08:05,382 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 16:08:05,472 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 16:08:05,539 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 16:08:06,103 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 16:08:06,563 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 16:08:06,572 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 16:08:06,799 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 16:08:06,882 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 16:08:08,275 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 16:08:08,436 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 16:08:08,457 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 16:08:08,715 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 16:08:08,813 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 16:08:08,894 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 16:08:08,982 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 16:08:09,125 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 16:08:09,296 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 16:08:09,335 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 16:08:10,402 Basic.log log.py-第52行: css selector正在点击发货：(a)
+INFO 2022-01-19 16:08:10,597 Basic.log log.py-第52行: xpath正在点击物流公司：(//div[@class='ant-select-search ant-select-search--inline']/..)
+INFO 2022-01-19 16:09:22,206 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 16:09:22,249 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 16:09:22,261 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 16:09:22,426 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 16:09:22,435 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 16:09:22,524 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 16:09:22,590 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 16:09:23,160 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 16:09:23,629 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 16:09:23,639 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 16:09:23,860 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 16:09:23,945 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 16:09:25,360 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 16:09:25,515 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 16:09:25,532 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 16:09:25,800 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 16:09:25,902 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 16:09:25,976 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 16:09:26,060 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 16:09:26,201 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 16:09:26,351 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 16:09:26,415 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 16:09:27,462 Basic.log log.py-第52行: css selector正在点击发货：(a)
+INFO 2022-01-19 16:09:28,657 Basic.log log.py-第52行: xpath正在点击物流公司：(//div[@class='ant-select-search ant-select-search--inline']/..)
+INFO 2022-01-19 16:09:53,865 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 16:09:53,908 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 16:09:53,919 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 16:09:54,083 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 16:09:54,093 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 16:09:54,185 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 16:09:54,252 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 16:09:54,850 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 16:09:55,327 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 16:09:55,338 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 16:09:55,561 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 16:09:55,646 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 16:09:57,068 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 16:09:57,227 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 16:09:57,243 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 16:09:57,542 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 16:09:57,642 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 16:09:57,715 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 16:09:57,798 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 16:09:57,949 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 16:09:58,103 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 16:09:58,142 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 16:09:59,210 Basic.log log.py-第52行: css selector正在点击发货：(a)
+INFO 2022-01-19 16:10:00,424 Basic.log log.py-第52行: xpath正在点击物流公司：(//div[@class='ant-select-search ant-select-search--inline']/../)
+ERROR 2022-01-19 16:10:00,453 Basic.log log.py-第64行: 点击物流公司失败：Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='ant-select-search ant-select-search--inline']/../ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='ant-select-search ant-select-search--inline']/../' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000107a5ae69 chromedriver + 5160553
+1   chromedriver                        0x00000001079e5593 chromedriver + 4679059
+2   chromedriver                        0x00000001075992c8 chromedriver + 172744
+3   chromedriver                        0x000000010759c141 chromedriver + 184641
+4   chromedriver                        0x000000010759bf61 chromedriver + 184161
+5   chromedriver                        0x000000010759c1fc chromedriver + 184828
+6   chromedriver                        0x00000001075ce876 chromedriver + 391286
+7   chromedriver                        0x00000001075ced21 chromedriver + 392481
+8   chromedriver                        0x0000000107601304 chromedriver + 598788
+9   chromedriver                        0x00000001075ec3fd chromedriver + 513021
+10  chromedriver                        0x00000001075ff0ab chromedriver + 589995
+11  chromedriver                        0x00000001075ec623 chromedriver + 513571
+12  chromedriver                        0x00000001075c1dce chromedriver + 339406
+13  chromedriver                        0x00000001075c3105 chromedriver + 344325
+14  chromedriver                        0x0000000107a1623e chromedriver + 4878910
+15  chromedriver                        0x0000000107a2dd17 chromedriver + 4975895
+16  chromedriver                        0x0000000107a33a3f chromedriver + 4999743
+17  chromedriver                        0x0000000107a2e61a chromedriver + 4978202
+18  chromedriver                        0x0000000107a0abb1 chromedriver + 4832177
+19  chromedriver                        0x0000000107a4afd8 chromedriver + 5095384
+20  chromedriver                        0x0000000107a4b161 chromedriver + 5095777
+21  chromedriver                        0x0000000107a622a8 chromedriver + 5190312
+22  libsystem_pthread.dylib             0x00007ff8197d44f4 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff8197d000f thread_start + 15
+Traceback (most recent call last):
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/Basic/base.py", line 87, in find_element
+    ele = self.driver.find_element(by=By, value=element_locate)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: Unable to locate an element with the xpath expression //div[@class='ant-select-search ant-select-search--inline']/../ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='ant-select-search ant-select-search--inline']/../' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x0000000107a5ae69 chromedriver + 5160553
+1   chromedriver                        0x00000001079e5593 chromedriver + 4679059
+2   chromedriver                        0x00000001075992c8 chromedriver + 172744
+3   chromedriver                        0x000000010759c141 chromedriver + 184641
+4   chromedriver                        0x000000010759bf61 chromedriver + 184161
+5   chromedriver                        0x000000010759c1fc chromedriver + 184828
+6   chromedriver                        0x00000001075ce876 chromedriver + 391286
+7   chromedriver                        0x00000001075ced21 chromedriver + 392481
+8   chromedriver                        0x0000000107601304 chromedriver + 598788
+9   chromedriver                        0x00000001075ec3fd chromedriver + 513021
+10  chromedriver                        0x00000001075ff0ab chromedriver + 589995
+11  chromedriver                        0x00000001075ec623 chromedriver + 513571
+12  chromedriver                        0x00000001075c1dce chromedriver + 339406
+13  chromedriver                        0x00000001075c3105 chromedriver + 344325
+14  chromedriver                        0x0000000107a1623e chromedriver + 4878910
+15  chromedriver                        0x0000000107a2dd17 chromedriver + 4975895
+16  chromedriver                        0x0000000107a33a3f chromedriver + 4999743
+17  chromedriver                        0x0000000107a2e61a chromedriver + 4978202
+18  chromedriver                        0x0000000107a0abb1 chromedriver + 4832177
+19  chromedriver                        0x0000000107a4afd8 chromedriver + 5095384
+20  chromedriver                        0x0000000107a4b161 chromedriver + 5095777
+21  chromedriver                        0x0000000107a622a8 chromedriver + 5190312
+22  libsystem_pthread.dylib             0x00007ff8197d44f4 _pthread_start + 125
+23  libsystem_pthread.dylib             0x00007ff8197d000f thread_start + 15
+
+INFO 2022-01-19 16:10:00,771 Basic.log log.py-第52行: 错误截图保存在：/Users/hujian/PycharmProjects/PythonWebSelenium/screenshots/点击物流公司_2022-01-19.png
+INFO 2022-01-19 16:14:59,396 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 16:14:59,437 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 16:14:59,450 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 16:14:59,612 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 16:14:59,621 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 16:14:59,710 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 16:14:59,777 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 16:15:00,348 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 16:15:00,803 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 16:15:00,813 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 16:15:01,034 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 16:15:01,094 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 16:15:02,619 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 16:15:02,768 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 16:15:02,781 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 16:15:03,102 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 16:15:03,206 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 16:15:03,290 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 16:15:03,376 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 16:15:03,524 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 16:15:03,652 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 16:15:03,693 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 16:15:04,761 Basic.log log.py-第52行: css selector正在点击发货：(a)
+INFO 2022-01-19 16:15:04,956 Basic.log log.py-第52行: xpath正在点击物流公司：(//div[@class='ant-select-search ant-select-search--inline']/..)
+INFO 2022-01-19 17:19:43,392 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-19 17:19:43,440 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-19 17:19:43,457 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-19 17:19:43,633 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-19 17:19:43,643 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-19 17:19:43,734 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-19 17:19:43,805 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-19 17:19:44,445 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-19 17:19:44,920 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-19 17:19:44,933 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-19 17:19:45,167 Basic.log log.py-第52行: css selector正在查找所有搜索到的店铺：(.md)
+INFO 2022-01-19 17:19:45,227 Basic.log log.py-第52行: css selector正在查找掌柜工具：(.nav-item)
+INFO 2022-01-19 17:19:46,723 Basic.log log.py-第52行: css selector正在查找微商城订单：(li[class='ant-menu-item'])
+INFO 2022-01-19 17:19:46,885 Basic.log log.py-第52行: css selector正在查找元素：(.ant-input)
+INFO 2022-01-19 17:19:46,900 Basic.log log.py-第52行: 正在筛选手机号：17771432624
+INFO 2022-01-19 17:19:47,154 Basic.log log.py-第52行: css selector正在点击订单状态：(.ant-select-selection__rendered)
+INFO 2022-01-19 17:19:47,270 Basic.log log.py-第52行: css selector正在选择待发货：(.ant-select-dropdown-menu-item)
+INFO 2022-01-19 17:19:47,348 Basic.log log.py-第52行: css selector正在点击日期控件：(.ant-calendar-range-picker-input)
+INFO 2022-01-19 17:19:47,435 Basic.log log.py-第52行: css selector正在填写结束日期：(.ant-calendar-input )
+INFO 2022-01-19 17:19:47,584 Basic.log log.py-第52行: css selector正在填写开始日期：(.ant-calendar-input )
+INFO 2022-01-19 17:19:47,733 Basic.log log.py-第52行: css selector正在确定日期：(.ant-calendar-ok-btn)
+INFO 2022-01-19 17:19:47,772 Basic.log log.py-第52行: css selector正在点击筛选：(button[class$='ant-btn-primary'])
+INFO 2022-01-19 17:19:48,840 Basic.log log.py-第52行: css selector正在点击发货：(a)
+INFO 2022-01-19 17:19:49,044 Basic.log log.py-第52行: xpath正在点击物流公司：(//div[@class='ant-select-search ant-select-search--inline']/..)
+INFO 2022-01-19 17:19:49,676 Basic.log log.py-第52行: css selector正在选择快递：(.ant-select-dropdown-menu-item)

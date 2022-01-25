@@ -1,0 +1,295 @@
+INFO 2022-01-21 16:17:45,148 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 16:17:45,196 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 16:17:45,208 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 16:17:45,428 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 16:17:45,438 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 16:17:45,527 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 16:17:45,596 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 16:17:46,218 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 16:17:46,755 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 16:17:46,766 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 16:17:47,005 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 16:17:47,049 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 16:17:48,461 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 16:17:48,594 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 16:17:48,692 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 16:24:28,098 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 16:24:28,139 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 16:24:28,148 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 16:24:28,380 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 16:24:28,390 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 16:24:28,483 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 16:24:28,549 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 16:24:29,134 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 16:24:29,598 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 16:24:29,608 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 16:24:29,828 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 16:24:29,871 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 16:24:31,299 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 16:24:31,430 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 16:24:31,529 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 16:25:10,593 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 16:25:10,632 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 16:25:10,643 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 16:25:10,873 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 16:25:10,882 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 16:25:10,977 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 16:25:11,044 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 16:25:11,621 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 16:25:12,064 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 16:25:12,074 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 16:25:12,299 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 16:25:12,365 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 16:25:13,762 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 16:25:13,893 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 16:25:14,080 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 16:28:37,044 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 16:28:37,104 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 16:28:37,117 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 16:28:37,364 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 16:28:37,374 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 16:28:37,466 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 16:28:37,533 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 16:28:38,192 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+ERROR 2022-01-21 16:28:43,454 Basic.log log.py-第64行: 点击切换店铺失败：Message: 
+Traceback (most recent call last):
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/Basic/base.py", line 60, in wait_element_explicit
+    wait_element = WebDriverWait(self.driver, wait_time).until(
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 89, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+INFO 2022-01-21 16:28:43,597 Basic.log log.py-第52行: 错误截图保存在：/Users/hujian/PycharmProjects/PythonWebSelenium/screenshots/点击切换店铺_2022-01-21.png
+INFO 2022-01-21 17:22:44,549 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:22:44,595 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:22:44,608 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:22:44,878 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:22:44,887 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:22:44,977 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:22:45,046 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:22:45,724 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:22:46,204 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:22:46,215 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:22:46,469 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:22:46,517 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:22:48,166 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:22:48,299 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:22:48,397 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:23:28,467 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:23:28,509 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:23:28,522 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:23:28,758 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:23:28,767 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:23:28,852 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:23:28,920 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:23:29,593 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:23:29,898 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+ERROR 2022-01-21 17:23:30,961 Basic.log log.py-第64行: 查找元素失败：Message: no such element: Unable to locate element: {"method":"css selector","selector":"[placeholder='请输入店铺编码或店铺名称']"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x000000010ee3ee69 chromedriver + 5160553
+1   chromedriver                        0x000000010edc9593 chromedriver + 4679059
+2   chromedriver                        0x000000010e97d2c8 chromedriver + 172744
+3   chromedriver                        0x000000010e9b2b62 chromedriver + 392034
+4   chromedriver                        0x000000010e9b2d21 chromedriver + 392481
+5   chromedriver                        0x000000010e9e5304 chromedriver + 598788
+6   chromedriver                        0x000000010e9d03fd chromedriver + 513021
+7   chromedriver                        0x000000010e9e30ab chromedriver + 589995
+8   chromedriver                        0x000000010e9d0623 chromedriver + 513571
+9   chromedriver                        0x000000010e9a5dce chromedriver + 339406
+10  chromedriver                        0x000000010e9a7105 chromedriver + 344325
+11  chromedriver                        0x000000010edfa23e chromedriver + 4878910
+12  chromedriver                        0x000000010ee11d17 chromedriver + 4975895
+13  chromedriver                        0x000000010ee17a3f chromedriver + 4999743
+14  chromedriver                        0x000000010ee1261a chromedriver + 4978202
+15  chromedriver                        0x000000010edeebb1 chromedriver + 4832177
+16  chromedriver                        0x000000010ee2efd8 chromedriver + 5095384
+17  chromedriver                        0x000000010ee2f161 chromedriver + 5095777
+18  chromedriver                        0x000000010ee462a8 chromedriver + 5190312
+19  libsystem_pthread.dylib             0x00007ff80f3c24f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff80f3be00f thread_start + 15
+Traceback (most recent call last):
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/Basic/base.py", line 97, in find_element
+    ele = self.driver.find_element(by=By, value=element_locate)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[placeholder='请输入店铺编码或店铺名称']"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+0   chromedriver                        0x000000010ee3ee69 chromedriver + 5160553
+1   chromedriver                        0x000000010edc9593 chromedriver + 4679059
+2   chromedriver                        0x000000010e97d2c8 chromedriver + 172744
+3   chromedriver                        0x000000010e9b2b62 chromedriver + 392034
+4   chromedriver                        0x000000010e9b2d21 chromedriver + 392481
+5   chromedriver                        0x000000010e9e5304 chromedriver + 598788
+6   chromedriver                        0x000000010e9d03fd chromedriver + 513021
+7   chromedriver                        0x000000010e9e30ab chromedriver + 589995
+8   chromedriver                        0x000000010e9d0623 chromedriver + 513571
+9   chromedriver                        0x000000010e9a5dce chromedriver + 339406
+10  chromedriver                        0x000000010e9a7105 chromedriver + 344325
+11  chromedriver                        0x000000010edfa23e chromedriver + 4878910
+12  chromedriver                        0x000000010ee11d17 chromedriver + 4975895
+13  chromedriver                        0x000000010ee17a3f chromedriver + 4999743
+14  chromedriver                        0x000000010ee1261a chromedriver + 4978202
+15  chromedriver                        0x000000010edeebb1 chromedriver + 4832177
+16  chromedriver                        0x000000010ee2efd8 chromedriver + 5095384
+17  chromedriver                        0x000000010ee2f161 chromedriver + 5095777
+18  chromedriver                        0x000000010ee462a8 chromedriver + 5190312
+19  libsystem_pthread.dylib             0x00007ff80f3c24f4 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff80f3be00f thread_start + 15
+
+INFO 2022-01-21 17:23:31,262 Basic.log log.py-第52行: 错误截图保存在：/Users/hujian/PycharmProjects/PythonWebSelenium/screenshots/查找元素_2022-01-21.png
+INFO 2022-01-21 17:23:44,053 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:23:44,096 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:23:44,107 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:23:44,345 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:23:44,354 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:23:44,449 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:23:44,520 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:23:45,196 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:23:45,701 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:23:45,712 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:23:45,873 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:23:46,014 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:23:47,739 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:23:47,870 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:23:47,970 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:24:27,586 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:24:27,626 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:24:27,636 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:24:27,855 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:24:27,866 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:24:27,951 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:24:28,018 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:24:28,643 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:24:29,121 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:24:29,131 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:24:29,347 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:24:29,417 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:24:30,571 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:24:30,740 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:24:30,833 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:25:36,014 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:25:36,059 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:25:36,074 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:25:36,291 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:25:36,302 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:25:36,392 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:25:36,440 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:25:37,088 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:25:37,581 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:25:37,593 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:25:37,815 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:25:37,865 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:25:39,289 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:25:39,424 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:25:39,619 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:30:39,015 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:30:39,057 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:30:39,069 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:30:39,283 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:30:39,292 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:30:39,378 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:30:39,420 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:30:39,983 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:30:40,473 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:30:40,484 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:30:40,709 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:30:40,777 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:30:42,121 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:30:42,412 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:30:42,511 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:31:42,415 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:31:42,455 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:31:42,467 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:31:42,688 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:31:42,698 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:31:42,792 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:31:42,859 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:31:43,446 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:31:43,911 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:31:43,921 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:31:44,146 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:31:44,193 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:31:45,681 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:31:45,810 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:31:45,915 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:37:43,026 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:37:43,067 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:37:43,079 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:37:43,299 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:37:43,308 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:37:43,400 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:37:43,468 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:37:44,081 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:37:44,575 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:37:44,585 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:37:44,825 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:37:44,870 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:37:46,249 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:37:46,374 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:37:46,472 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:41:24,369 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:41:24,410 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:41:24,424 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:41:24,651 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:41:24,663 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:41:24,759 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:41:24,833 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:41:25,466 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:41:25,949 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:41:25,958 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:41:26,269 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:41:26,317 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:41:27,771 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:41:27,913 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:41:28,015 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:43:35,842 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:43:35,882 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:43:35,896 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:43:36,116 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:43:36,126 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:43:36,216 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:43:36,259 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:43:36,878 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:43:37,338 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:43:37,348 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:43:37,578 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:43:37,623 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:43:39,087 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:43:39,225 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:43:39,335 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:49:06,753 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:49:06,796 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:49:06,815 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:49:07,048 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:49:07,057 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:49:07,147 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:49:07,216 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:49:07,813 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:49:08,284 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:49:08,293 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:49:08,398 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:49:08,520 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:49:09,983 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:49:10,114 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:49:10,215 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])
+INFO 2022-01-21 17:54:36,603 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-21 17:54:36,645 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-21 17:54:36,658 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-21 17:54:36,888 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-21 17:54:36,899 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-21 17:54:36,994 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-21 17:54:37,041 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-21 17:54:37,654 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-21 17:54:38,130 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-21 17:54:38,140 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-21 17:54:38,381 Basic.log log.py-第52行: xpath正在点击北杏仁餐饮测试门店：(//span[text()='北杏仁餐饮测试门店'])
+INFO 2022-01-21 17:54:38,450 Basic.log log.py-第52行: xpath正在点击掌柜工具：(//a[text()='掌柜工具'])
+INFO 2022-01-21 17:54:39,875 Basic.log log.py-第52行: xpath正在点击微商城订单：(//li[text()='微商城订单'])
+INFO 2022-01-21 17:54:40,010 Basic.log log.py-第52行: xpath正在点击批量发货：(//span[text()='批量发货']/parent::button[1])
+INFO 2022-01-21 17:54:40,109 Basic.log log.py-第52行: xpath正在点击选择文件：(//span[text()='选择文件']/parent::button[1])

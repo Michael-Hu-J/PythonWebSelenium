@@ -1,0 +1,8 @@
+INFO 2022-01-11 17:38:23,577 Basic.log log.py-第52行: css selector正在None：(.login-btn)
+INFO 2022-01-11 17:38:23,637 Basic.log log.py-第52行: css selector正在None：([placeholder='请输入手机号码'])
+INFO 2022-01-11 17:38:23,797 Basic.log log.py-第52行: css selector正在None：([placeholder='请输入密码'])
+INFO 2022-01-11 17:38:23,876 Basic.log log.py-第52行: css selector正在None：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-11 17:38:52,663 Basic.log log.py-第52行: css selector正在None：(.login-btn)
+INFO 2022-01-11 17:38:52,709 Basic.log log.py-第52行: css selector正在None：([placeholder='请输入手机号码'])
+INFO 2022-01-11 17:38:52,860 Basic.log log.py-第52行: css selector正在None：([placeholder='请输入密码'])
+INFO 2022-01-11 17:38:52,933 Basic.log log.py-第52行: css selector正在None：([class='btn ivu-btn ivu-btn-primary'] > span)

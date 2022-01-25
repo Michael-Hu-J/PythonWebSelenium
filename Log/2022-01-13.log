@@ -1,0 +1,48 @@
+INFO 2022-01-13 18:06:42,114 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-13 18:06:42,154 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-13 18:06:42,166 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-13 18:06:42,347 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-13 18:06:42,357 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-13 18:06:42,452 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-13 18:06:42,522 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-13 18:06:43,327 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-13 18:06:43,795 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-13 18:06:43,805 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
+INFO 2022-01-13 20:31:44,775 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-13 20:31:44,816 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-13 20:31:44,828 Basic.log log.py-第52行: 正在输入手机号码：('17771432624',)
+INFO 2022-01-13 20:31:44,952 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-13 20:31:44,961 Basic.log log.py-第52行: 正在输入密码：('hujian1380725545',)
+INFO 2022-01-13 20:31:45,039 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-13 20:31:45,083 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-13 20:31:45,885 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-13 20:31:46,351 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-13 20:31:46,361 Basic.log log.py-第52行: 正在搜索店铺：(['北杏仁餐饮测试门店', '\ue007'],)
+ERROR 2022-01-13 20:31:46,405 Basic.log log.py-第64行: 搜索店铺失败：sequence item 0: expected str instance, list found
+Traceback (most recent call last):
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/Basic/base.py", line 100, in send_text
+    ele.send_keys(keys_to_send)
+  File "/Users/hujian/PycharmProjects/PythonWebSelenium/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webelement.py", line 541, in send_keys
+    {'text': "".join(keys_to_typing(value)),
+TypeError: sequence item 0: expected str instance, list found
+INFO 2022-01-13 20:31:46,686 Basic.log log.py-第52行: 错误截图保存在：/Users/hujian/PycharmProjects/PythonWebSelenium/screenshots/搜索店铺_2022-01-13.png
+INFO 2022-01-13 20:32:24,282 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-13 20:32:24,324 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-13 20:32:24,335 Basic.log log.py-第52行: 正在输入手机号码：('17771432624',)
+INFO 2022-01-13 20:32:24,518 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-13 20:32:24,529 Basic.log log.py-第52行: 正在输入密码：('hujian1380725545',)
+INFO 2022-01-13 20:32:24,623 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-13 20:32:24,690 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-13 20:32:25,502 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-13 20:32:25,957 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-13 20:32:25,967 Basic.log log.py-第52行: 正在搜索店铺：('北杏仁餐饮测试门店', '\ue007')
+INFO 2022-01-13 20:37:41,031 Basic.log log.py-第52行: css selector正在点击手机账号登录：(.login-btn)
+INFO 2022-01-13 20:37:41,073 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入手机号码'])
+INFO 2022-01-13 20:37:41,086 Basic.log log.py-第52行: 正在输入手机号码：17771432624
+INFO 2022-01-13 20:37:41,259 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入密码'])
+INFO 2022-01-13 20:37:41,269 Basic.log log.py-第52行: 正在输入密码：hujian1380725545
+INFO 2022-01-13 20:37:41,361 Basic.log log.py-第52行: css selector正在点击登录：([class='btn ivu-btn ivu-btn-primary'] > span)
+INFO 2022-01-13 20:37:41,405 Basic.log log.py-第52行: css selector正在悬停我的账户：(.account-arrow)
+INFO 2022-01-13 20:37:42,235 Basic.log log.py-第52行: css selector正在点击切换店铺：(#common-nav-shift-shop)
+INFO 2022-01-13 20:37:42,712 Basic.log log.py-第52行: css selector正在查找元素：([placeholder='请输入店铺编码或店铺名称'])
+INFO 2022-01-13 20:37:42,722 Basic.log log.py-第52行: 正在搜索店铺：北杏仁餐饮测试门店
