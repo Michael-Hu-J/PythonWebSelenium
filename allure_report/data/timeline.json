@@ -4,22 +4,22 @@
   "children" : [ {
     "name" : "hujiandeMacBook-Pro.local",
     "children" : [ {
-      "name" : "984-MainThread",
+      "name" : "1132-MainThread",
       "children" : [ {
         "name" : "test_switch_store",
-        "uid" : "1f986a58a1e1b7d",
-        "parentUid" : "aa851c0bd9d8f58ee8f99167a5834ea5",
-        "status" : "broken",
+        "uid" : "97e5aac136588ad7",
+        "parentUid" : "a4937ebbd2ff1e1b123dec3e6949543c",
+        "status" : "passed",
         "time" : {
-          "start" : 1643108905949,
-          "stop" : 1643108905949,
-          "duration" : 0
+          "start" : 1643160594715,
+          "stop" : 1643160599093,
+          "duration" : 4378
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "aa851c0bd9d8f58ee8f99167a5834ea5"
+      "uid" : "a4937ebbd2ff1e1b123dec3e6949543c"
     } ],
     "uid" : "b80e27ae820b992cd468b02eb7015fdb"
   } ]

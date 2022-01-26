@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Tue Jan 25 19:08:25 CST 2022","Tue Jan 25 19:08:25 CST 2022","0","TestCase","test_switch_store","TestSwitchStore","","","test_switch_store",""
+"passed","Wed Jan 26 09:29:54 CST 2022","Wed Jan 26 09:29:59 CST 2022","4378","TestCase","test_switch_store","TestSwitchStore","","","test_switch_store",""

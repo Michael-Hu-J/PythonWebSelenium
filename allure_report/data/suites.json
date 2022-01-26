@@ -9,13 +9,13 @@
         "name" : "TestSwitchStore",
         "children" : [ {
           "name" : "test_switch_store",
-          "uid" : "1f986a58a1e1b7d",
+          "uid" : "97e5aac136588ad7",
           "parentUid" : "34b9967855ab872ac853bfa506d3e41a",
-          "status" : "broken",
+          "status" : "passed",
           "time" : {
-            "start" : 1643108905949,
-            "stop" : 1643108905949,
-            "duration" : 0
+            "start" : 1643160594715,
+            "stop" : 1643160599093,
+            "duration" : 4378
           },
           "flaky" : false,
           "newFailed" : false,

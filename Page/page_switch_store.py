@@ -2,17 +2,12 @@
 # -*- coding:utf-8 -*-
 
 import time
-import pyperclip
-from pykeyboard import PyKeyboard
-from pymouse import PyMouse
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-
 from Basic.base import Base
 
 
 class SwitchStore(Base):
-
     def click_switch(self):
         account = super().wait_element_explicit(By.CSS_SELECTOR, ".account-arrow", "悬停我的账户")
         self.action_chains.move_to_element(account).perform()
